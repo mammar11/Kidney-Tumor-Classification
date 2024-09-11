@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohammed%20Ammaruddin/Dropbox/My%20PC%20%28zenbook%29/Desktop/kidney-tumor-classification/mlruns/0/593f4d93e99a43a88eac271f22926bbc/artifacts
+end_time: 1726095911789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 593f4d93e99a43a88eac271f22926bbc
+run_name: likeable-shad-384
+run_uuid: 593f4d93e99a43a88eac271f22926bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726095884200
+status: 3
+tags: []
+user_id: Mohammed Ammaruddin
