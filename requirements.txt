@@ -9,7 +9,7 @@ seaborn
 python-box==6.0.2
 pyYAML
 tqdm
-dashub
+dagshub
 ensure==1.0.2
 joblib
 types-PyYAML
