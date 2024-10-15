@@ -4,6 +4,13 @@ from cnnClassifier.pipeline.stage_02_prepare_base_model import PrepareBaseModelT
 from cnnClassifier.pipeline.stage_03_model_training import ModelTrainingPipeline
 from cnnClassifier.pipeline.stage_04_model_evaluation import EvaluationPipeline
 
+import sys
+import os
+
+# Add the 'src' directory to Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
+
+from cnnClassifier import logger
 
 
 
